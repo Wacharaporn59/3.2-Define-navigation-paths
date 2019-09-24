@@ -37,7 +37,7 @@
         android:name="com.example.android.navigation.GameFragment"
         android:label="GameFragment" />
     <action
-        android:id="@+id/action_gameFragment_to_gameOverFragment"
+        android:id="@+id/action_gameOverFragment_to_gameFragment"
         app:destination="@+id/gameOverFragment" />
     <fragment
         android:id="@+id/gameOverFragment"
